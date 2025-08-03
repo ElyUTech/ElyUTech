@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Cybersecurity Projects:
 
-- **Audit**
+- **Secuirty Audit**
 
 - **DoS Analyze network layer communication**
 
