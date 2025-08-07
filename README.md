@@ -6,7 +6,7 @@
 
 - **Secuirty Audit**
 
-- **DoS Analyze network layer communication**
+- **DoS Analyze Network Layer Communication**
 
 - **SYN Packet Flood**
 
