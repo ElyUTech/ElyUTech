@@ -6,7 +6,7 @@
 
 - **Secuirty Audit** (https://github.com/ElyUTech/Project-1-Secuirty-Audit/tree/main)
 
-- **DoS Analyze Network Layer Communication**
+- **Analyze Network Layer Communication**
 
 - **SYN Packet Flood**
 
