@@ -10,7 +10,7 @@
 
 - **Analyze Wireshark Log (SYN Packet Flood)** (https://github.com/ElyUTech/Project-3-Analyze-Wireshark-Log-SYN-Packet-Flood-/tree/main)
 
-- **OS Hardening**
+- **OS Hardening** (https://github.com/ElyUTech/Project-4-OS-Hardening)
 
 - **Network Hardening**
 
