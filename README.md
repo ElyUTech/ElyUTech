@@ -12,7 +12,7 @@
 
 - **OS Hardening** (https://github.com/ElyUTech/Project-4-OS-Hardening)
 
-- **Network Hardening**
+- **Network Hardening**(https://github.com/ElyUTech/Project-5-Network-Hardening)
 
 - **NIST Cybersecurity Framework**
 
