@@ -4,11 +4,11 @@
 
 ## 👨‍💻 Cybersecurity Projects:
 
-- **Secuirty Audit** (https://github.com/ElyUTech/Project-1-Secuirty-Audit/tree/main)
+- **Secuirty Audit** (https://github.com/ElyUTech/Project-1-Secuirty-Audit)
 
 - **Analyze Network Layer Communication with Tcpdump** (https://github.com/ElyUTech/Project-2-Analyze-Network-Layer-Communication)
 
-- **Analyze Wireshark Log (SYN Packet Flood)** (https://github.com/ElyUTech/Project-3-Analyze-Wireshark-Log-SYN-Packet-Flood-/tree/main)
+- **Analyze Wireshark Log (SYN Packet Flood)** (https://github.com/ElyUTech/Project-3-Analyze-Wireshark-Log-SYN-Packet-Flood)
 
 - **OS Hardening** (https://github.com/ElyUTech/Project-4-OS-Hardening)
 
