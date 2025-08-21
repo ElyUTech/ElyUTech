@@ -14,7 +14,7 @@
 
 - **Network Hardening** (https://github.com/ElyUTech/Project-5-Network-Hardening)
 
-- **NIST Cybersecurity Framework**
+- **NIST Cybersecurity Framework** (https://github.com/ElyUTech/Project-6-NIST-Cybersecurity-Framework)
 
 - **File Permissions in Linux**
 
