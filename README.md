@@ -16,7 +16,7 @@
 
 - **NIST Cybersecurity Framework** (https://github.com/ElyUTech/Project-6-NIST-Cybersecurity-Framework)
 
-- **File Permissions in Linux**
+- **File Permissions in Linux** (https://github.com/ElyUTech/Project-7-File-Permissions-in-Linux)
 
 - **Classify Assets** 
 
