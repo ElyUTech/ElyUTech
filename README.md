@@ -20,7 +20,7 @@
 
 - **Classify Assets** (https://github.com/ElyUTech/Project-8-Classify-Assets)
 
-- **Apply Filters to SQL Queries**
+- **Apply Filters to SQL Queries** (https://github.com/ElyUTech/Project-9-Apply-Filters-To-SQL-Queries)
 
 - **Data Leak Worksheet**
 
