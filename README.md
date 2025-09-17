@@ -18,7 +18,7 @@
 
 - **File Permissions in Linux** (https://github.com/ElyUTech/Project-7-File-Permissions-in-Linux)
 
-- **Classify Assets** 
+- **Classify Assets** (https://github.com/ElyUTech/Project-8-Classify-Assets)
 
 - **Apply Filters to SQL Queries**
 
