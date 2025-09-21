@@ -22,7 +22,7 @@
 
 - **Apply Filters to SQL Queries** (https://github.com/ElyUTech/Project-9-Apply-Filters-To-SQL-Queries)
 
-- **Data Leak Worksheet**
+- **Data Leak Worksheet** (https://github.com/ElyUTech/Project-10-Data-Leak-Worksheet)
 
 - **Incident Handler's Journal**
 
