@@ -24,7 +24,7 @@
 
 - **Data Leak Worksheet** (https://github.com/ElyUTech/Project-10-Data-Leak-Worksheet)
 
-- **Incident Handler's Journal**
+- **Incident Handler's Journal** (https://github.com/ElyUTech/Project-11-Incident-Handlers-Journal)
 
 - **Vulnerability Assessment Report**
 
