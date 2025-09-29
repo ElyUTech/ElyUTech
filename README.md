@@ -26,7 +26,7 @@
 
 - **Incident Handler's Journal** (https://github.com/ElyUTech/Project-11-Incident-Handlers-Journal)
 
-- **Vulnerability Assessment Report**
+- **Vulnerability Assessment Report** (https://github.com/ElyUTech/Project-12-Vulnerability-Assessment-Report)
 
 - **Algorithm for File Updates in Python**
 
