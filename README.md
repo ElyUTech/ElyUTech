@@ -28,7 +28,7 @@
 
 - **Vulnerability Assessment Report** (https://github.com/ElyUTech/Project-12-Vulnerability-Assessment-Report)
 
-- **Algorithm for File Updates in Python**
+- **Update a File through a Python Algorithm**
 
 
 
