@@ -30,6 +30,8 @@
 
 - **Update a File through a Python Algorithm** (https://github.com/ElyUTech/Project-13-Update-a-File-through-a-Python-Algorithm)
 
+- **Inspect a File Hash**
+
 
 
 <!--
