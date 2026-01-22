@@ -32,7 +32,7 @@
 
 - **Inspect a File Hash** (https://github.com/ElyUTech/Project-14-Inspect-a-File-Hash)
 
-- **Explore Signatures with Suricata**
+- **Explore Signatures with Suricata** (https://github.com/ElyUTech/Project-15-Explore-Signatures-with-Suricata)
 
 - **Explore Signatures with Suricata**
 
