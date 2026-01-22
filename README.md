@@ -34,7 +34,7 @@
 
 - **Explore Signatures with Suricata** (https://github.com/ElyUTech/Project-15-Explore-Signatures-with-Suricata)
 
-- **Explore Signatures with Suricata**
+- **Review a Compliance Report**
 
 - **Explore Signatures with Suricata**
 
