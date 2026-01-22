@@ -32,6 +32,14 @@
 
 - **Inspect a File Hash** (https://github.com/ElyUTech/Project-14-Inspect-a-File-Hash)
 
+- **Explore Signatures with Suricata**
+
+- **Explore Signatures with Suricata**
+
+- **Explore Signatures with Suricata**
+
+- **Explore Signatures with Suricata**
+
 <!--
 **ElyUTech/ElyUTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
