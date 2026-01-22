@@ -34,7 +34,7 @@
 
 - **Explore Signatures with Suricata** (https://github.com/ElyUTech/Project-15-Explore-Signatures-with-Suricata)
 
-- **Review a Compliance Report**
+- **Review a Compliance Report (NIST)** (https://github.com/ElyUTech/Project-16-Review-a-Compliance-Report-NIST-)
 
 - **Explore Signatures with Suricata**
 
