@@ -40,7 +40,7 @@
 
 - **Risk Management Policy (NIST)** (https://github.com/ElyUTech/Project-18-Risk-Management-Policy-NIST)
   
-- **Explore Signatures with Suricata**
+- **PDocument a Timeline of Events**
 
 - **Explore Signatures with Suricata**
 
