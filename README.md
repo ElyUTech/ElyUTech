@@ -34,6 +34,8 @@
 
 - **Explore Signatures with Suricata** (https://github.com/ElyUTech/Project-15-Explore-Signatures-with-Suricata)
 
+ ## Cloud Projects:
+
 - **Review a Compliance Report (NIST)** (https://github.com/ElyUTech/Project-16-Review-a-Compliance-Report-NIST-)
 
 - **Analyze the Security of a Container** (https://github.com/ElyUTech/Project-17-Analyze-the-Security-of-a-Container)
@@ -41,6 +43,8 @@
 - **Risk Management Policy (NIST)** (https://github.com/ElyUTech/Project-18-Risk-Management-Policy-NIST)
   
 - **Document a Timeline of Events** (https://github.com/ElyUTech/Project-19-Document-a-Timeline-of-Events)
+
+- **Respond and Recover from a Data Breach**
 
 - **Explore Signatures with Suricata**
 
