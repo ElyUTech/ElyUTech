@@ -46,7 +46,7 @@
 
 - **Respond and Recover from a Data Breach** (https://github.com/ElyUTech/Project-20-Respond-and-Recover-from-a-Data-Breach)
 
-- **Explore Signatures with Suricata**
+- **Respond and Recover from a Data Breach Final Report**
 
 <!--
 **ElyUTech/ElyUTech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
