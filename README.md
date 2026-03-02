@@ -34,6 +34,13 @@
 
 - **Explore Signatures with Suricata** (https://github.com/ElyUTech/Project-15-Explore-Signatures-with-Suricata)
 
+- **Port Scanning with Pen-test Tools** (a)
+
+- **Explore Signatures with Suricata** ()
+
+- **Explore Signatures with Suricata** (httures-with-Suricata)
+
+  
  ## Cloud Projects:
 
 - **Review a Compliance Report (NIST)** (https://github.com/ElyUTech/Project-16-Review-a-Compliance-Report-NIST-)
