@@ -34,7 +34,7 @@
 
 - **Explore Signatures with Suricata** (https://github.com/ElyUTech/Project-15-Explore-Signatures-with-Suricata)
 
-- **Port Scanning with Pen-test Tools** (https://github.com/ElyUTech/Project-22-Port-Scanning-with-Pen-test-Tool))
+- **Port Scanning with Pen-test Tools** (https://github.com/ElyUTech/Project-22-Port-Scanning-with-Pen-test-Tool)
 
 - **Explore Signatures with Suricata** ()
 
