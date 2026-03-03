@@ -36,7 +36,7 @@
 
 - **Port Scanning with Pen-test Tools** (https://github.com/ElyUTech/Project-22-Port-Scanning-with-Pen-test-Tool)
 
-- **Port Scanning with NMap & NMap GUI** ()
+- **Port Scanning with NMap & NMap GUI** (https://github.com/ElyUTech/Project-23-Port-Scanning-with-NMap-NMap-GUI)
 
 - **Explore Signatures with Suricata** (httures-with-Suricata)
 
