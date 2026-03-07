@@ -38,7 +38,7 @@
 
 - **Port Scanning with NMap & NMap GUI** (https://github.com/ElyUTech/Project-23-Port-Scanning-with-NMap-NMap-GUI)
 
-- **Explore Signatures with Suricata** (httures-with-Suricata)
+- **Secure Information Using Symmetric Encryption** (httures-with-Suricata)
 
   
  ## Cloud Projects:
