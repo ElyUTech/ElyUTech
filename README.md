@@ -38,7 +38,7 @@
 
 - **Port Scanning with NMap & NMap GUI** (https://github.com/ElyUTech/Project-23-Port-Scanning-with-NMap-NMap-GUI)
 
-- **Secure Information Using Symmetric Encryption** (https://github.com/ElyUTech/Project-24-Secure-Information-Using-Symmetric-Encryption))
+- **Secure Information Using Symmetric Encryption** (https://github.com/ElyUTech/Project-24-Secure-Information-Using-Symmetric-Encryption)
 
   
  ## Cloud Projects:
